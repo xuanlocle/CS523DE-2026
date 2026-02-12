@@ -1,0 +1,165 @@
+0:12
+0 phút 12 giây
+So introduction to big data and
+0:14
+0 phút 14 giây
+Hadoop. The team is transcendental. Consciousness is
+0:18
+0 phút 18 giây
+the simplest form of awareness.
+0:21
+0 phút 21 giây
+Wholeness. How do I burn the related technologies present in
+0:27
+0 phút 27 giây
+its ecosystem like Mapreduce, hive, peak edge bass, etc.
+0:31
+0 phút 31 giây
+Provide storage and processing of large banks of structured and
+0:36
+0 phút 36 giây
+unstructured data. From science and technology of consciousness
+0:41
+0 phút 41 giây
+POV, the Unified Field is the ultimate knowledge bank.
+0:45
+0 phút 45 giây
+As it provides access to all knowledge in the simplest state
+0:49
+0 phút 49 giây
+of awareness, which can then be processed at the more relative
+0:54
+0 phút 54 giây
+levels of existence.
+0:55
+0 phút 55 giây
+So Unified Field is ultimate knowledge bank. Whenever you
+0:59
+0 phút 59 giây
+are doing PM you are drawing from that knowledge into your
+1:03
+1 phút 3 giây
+own consciousness.
+1:05
+1 phút 5 giây
+Similarly, in this course, what we're going to do, we're going
+1:10
+1 phút 10 giây
+to draw knowledge from this vast area of big data technologies.
+1:15
+1 phút 15 giây
+Grasp as much as possible tag.
+1:19
+1 phút 19 giây
+At most advantage of these four weeks.
+1:23
+1 phút 23 giây
+That is our aim.
+1:26
+1 phút 26 giây
+So with that wholeness in mind, let's start.
+1:31
+1 phút 31 giây
+So just to give you a head start on what we are learning and why
+1:37
+1 phút 37 giây
+we are learning, let's take an
+1:39
+1 phút 39 giây
+example of. A simple file.
+1:43
+1 phút 43 giây
+Maybe? 300 KB file. Simple text file. 300 KB file is
+1:50
+1 phút 50 giây
+stored on your machine and if I ask you.
+1:55
+1 phút 55 giây
+Um, how many words are there?
+1:58
+1 phút 58 giây
+In this text file, how many words are there?
+2:03
+2 phút 3 giây
+What will you do? Probably you will write a Java program.
+2:07
+2 phút 7 giây
+Java file IO. Everyone knows. Yeah, so you will write a Java
+2:12
+2 phút 12 giây
+program. Read the file, split it onwards and read the words.
+2:16
+2 phút 16 giây
+Maybe you will keep a map or something like that. Some kind
+2:20
+2 phút 20 giây
+of a data structure in memory.
+2:23
+2 phút 23 giây
+To keep account of work, just keep an array baby
+2:26
+2 phút 26 giây
+whatever you want, keep it in memory, keep account.
+2:31
+2 phút 31 giây
+Hum. Finally, or get these are the number of words, then now
+2:36
+2 phút 36 giây
+what if the file is not 300 KB? Maybe it's like.
+2:41
+2 phút 41 giây
+1 gig.
+2:43
+2 phút 43 giây
+1GB5
+2:46
+2 phút 46 giây
+Probably then yeah, I think should still work for you.
+2:51
+2 phút 51 giây
+Now the file is big so that your data structure
+2:56
+2 phút 56 giây
+is not able to.
+3:00
+3 phút
+Stay in memory.
+3:02
+3 phút 2 giây
+It is going beyond the capacity of your memory. The
+3:05
+3 phút 5 giây
+hip size is going beyond that.
+3:08
+3 phút 8 giây
+What would you do then?
+3:12
+3 phút 12 giây
+One by one.
+3:15
+3 phút 15 giây
+Read one button.
+3:18
+3 phút 18 giây
+Divide the file into small small. Split the file into
+3:25
+3 phút 25 giây
+multiple different small files
+3:27
+3 phút 27 giây
+maybe. And then read those files one by one and then finally
+3:31
+3 phút 31 giây
+aggregate the count and you are
+3:32
+3 phút 32 giây
+done. Right is enough.
+3:35
+3 phút 35 giây
+Now what if the file is so big that it cannot stay on
+3:38
+3 phút 38 giây
+one machine itself?
+3:41
+3 phút 41 giây
+What is the file? Is the whole Internet?
