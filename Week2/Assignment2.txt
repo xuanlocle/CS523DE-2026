@@ -1,0 +1,10 @@
+For NameNode, why it’s not necessary to store block locations persistently?
+Why is it important to make the NameNode resilient to failures?
+What details are there in the FsImage file?
+What is the purpose of the secondary name-node?
+Does the NameNode stay in the safe mode until all under-replicated files are fully replicated? Why or why not?
+What are the core changes in Hadoop 2.x compared to Hadoop 1.x? In other words, state major differences between Hadoop 1 and Hadoop 2.
+What is the difference between MR1 in Hadoop 1.0 and MR2 in Hadoop2.0?
+What is HDFS Federation? What advantage does it provide?
+What is NameNode High Availability and how is it achieved in Hadoop 2?
+What is the role of Application Master in YARN application execution?
